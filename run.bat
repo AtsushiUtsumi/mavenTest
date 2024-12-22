@@ -1,0 +1,1 @@
+(chcp 65001) && (cls) && (mvn compile) && (mvn test) && (mvn exec:java)
